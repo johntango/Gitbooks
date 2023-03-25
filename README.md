@@ -22,3 +22,9 @@ from Daleonai.com
 ![](.gitbook/assets/Attention001.png)
 
 1. Self-Attention
+
+* “Server, can I have the check?”
+* “Looks like I just crashed the server.”
+
+### A Hammer for all nails
+
