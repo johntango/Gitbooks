@@ -47,3 +47,10 @@ Transformers can generate a wide variety of novel entities, including
 * Magenta Music [https://magenta.tensorflow.org/music-transformer](https://magenta.tensorflow.org/music-transformer)
 * DALLE-2 generating images from text  [https://daleonai.com/dalle-5-mins](https://daleonai.com/dalle-5-mins)&#x20;
 
+**HuggingFaces** - Getting Started with Code
+
+## Getting Started with Code
+
+Transformers” library maintained by the company [HuggingFace](https://huggingface.co/). The platform allow you to train and use most of today’s popular NLP models, like BERT, Roberta, T5, GPT-2, in a very developer-friendly way.
+
+\
