@@ -29,7 +29,13 @@ from Daleonai.com
 
 BERT, short for “Bidirectional Encoder Representations from Transformers”, was introduced by researchers at Google around 2018
 
-{% embed url="https://github.com/google-research/bert" %}
-BERT - a free trained model
-{% endembed %}
+&#x20;It can do&#x20;
 
+* text summarization
+* question answering
+* classification
+* named entity resolution
+* text similarity
+* offensive message/profanity detection
+* understanding user queries
+* a whole lot more
