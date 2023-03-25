@@ -27,7 +27,7 @@ from Daleonai.com
 
 ### History - A Hammer for all nails
 
-BERT, short for “Bidirectional Encoder Representations from Transformers”, was introduced by researchers at Google around 2018
+**BERT**, short for “Bidirectional Encoder Representations from Transformers”, was introduced by researchers at Google around 2018
 
 &#x20;It can do&#x20;
 
@@ -39,3 +39,11 @@ BERT, short for “Bidirectional Encoder Representations from Transformers”, w
 * offensive message/profanity detection
 * understanding user queries
 * a whole lot more
+
+[MEENA ](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)  introduced by Google Research 2022, is a Transformer-based chatbot (“conversational agent”) that can have compelling conversations about almost any topic&#x20;
+
+Transformers can generate a wide variety of novel entities, including
+
+* Magenta Music [https://magenta.tensorflow.org/music-transformer](https://magenta.tensorflow.org/music-transformer)
+* DALLE-2 generating images from text  [https://daleonai.com/dalle-5-mins](https://daleonai.com/dalle-5-mins)&#x20;
+
